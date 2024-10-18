@@ -1,8 +1,8 @@
 {
     "name": "Jogo do Mico - Memória",
     "short_name": "Mico",
-    "description": "Um jogo da memória divertido com tema do Mico!",
-    "start_url": "/index.h",
+    "description": "Um jogo da memória divirta-se com o Mico!",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#dc3545", /* Cor do tema do Mico */
