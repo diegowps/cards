@@ -5,7 +5,7 @@
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#dc3545", /* Cor do tema do Mico */
+    "theme_color": "#dc3545",
     "icons": [
       {
         "src": "/images/icon-192x192.png",
