@@ -1,7 +1,7 @@
 const cacheName = 'memory-game-v1';
 const assets = [
   '/',
-  '/cards',
+  '/cards/',
   '/styles.css',
   '/script.js',
   '/images/icon-192x192.png',
