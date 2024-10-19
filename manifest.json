@@ -2,7 +2,7 @@
     "name": "Jogo do Mico - Memória",
     "short_name": "Mico",
     "description": "Um jogo da memória divirta-se com o Mico!",
-    "start_url": "/cards",
+    "start_url": "/cards/",
     "scope": "/",
     "display": "standalone",
     "background_color": "#ffffff",
